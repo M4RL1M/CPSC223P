@@ -1,0 +1,28 @@
+**************************************************
+Current queue deque(['John', 'David'])
+Serving John
+**************************************************
+John 's cart:
+banana : 5.0
+egg : 1.0
+Customer John gets 0% discount
+Total: 6.0
+**************************************************
+Current queue deque(['David'])
+Serving David
+**************************************************
+David 's cart:
+apple : 10.0
+egg : 1.0
+sushi : 11.8
+Customer David gets 0% discount
+Total: 22.8
+**************************************************
+No more in queue
+.**************************************************
+No more in queue
+.
+----------------------------------------------------------------------
+Ran 22 tests in 0.000s
+
+OK
